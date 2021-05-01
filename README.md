@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hola!! 👋
 
-<!--
-**javimontoto/javimontoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Javier Montoto, y soy **Graduado en Ingeniería de Tecnologías de Telecomunicación** por la Universidad de
+Vigo, con más de 5 años de experiencia en el **desarrollo de aplicaciones web**. Especializado
+en desarrollos con tecnologías Java, Javascript (Vanilla, Angular, NodeJS) y bases de datos (MySQL y MongoDB).
 
-Here are some ideas to get you started:
+* Actualmente, trabajo en [AttanTTic](https://atlanttic.uvigo.es/es/) como ingeniero de desarrollo.
+* Tengo mi blog [Javimontoto.com](https://www.javimontoto.com/) donde comparto mis proyectos personales con el resto de la comunidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conocimientos informáticos
+*	Programación en Java (Struts, Maven, MyBatis, Hibernate).
+*	Programación Web: HTML5, CSS, Javascript (Vanilla, jQuery, NodeJS, Express, Angular, PWA), PHP (Yii2, Symfony, Laravel), Ruby (Ruby on Rails).
+*	Tester: Selenium, JUnit, Mokito.
+*	Tecnologías Docker y Docker Compose.
+*	Programación móvil: Android.
+*	Bases de datos: MySQL, MongoDB, SQLite.
+*	CMS: Wordpress (instalación, configuración, modificación).
